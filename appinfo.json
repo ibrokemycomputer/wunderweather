@@ -1,0 +1,195 @@
+{
+    "appKeys": {
+        "KEY_COLOR": 5,
+        "KEY_ICON": 3,
+        "KEY_TEMP_C": 1,
+        "KEY_TEMP_F": 0,
+        "KEY_TWENTY_FOUR_HOUR_FORMAT": 4,
+        "KEY_USE_C": 2
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "ibrokemy.computer",
+    "enableMultiJS": true,
+    "longName": "Wunder Weather",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/weather_rain_i.pdc",
+                "name": "WEATHER_RAIN_I",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_thunder.pdc",
+                "name": "WEATHER_THUNDER",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_unknown_i.pdc",
+                "name": "WEATHER_UNKNOWN_I",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_thunder_i.pdc",
+                "name": "WEATHER_THUNDER_I",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_snow_i.pdc",
+                "name": "WEATHER_SNOW_I",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_partly_cloudy_i.pdc",
+                "name": "WEATHER_PARTLY_CLOUDY_I",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_light_rain_i.pdc",
+                "name": "WEATHER_LIGHT_RAIN_I",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_fog_i.pdc",
+                "name": "WEATHER_FOG_I",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_cloudy_i.pdc",
+                "name": "WEATHER_CLOUDY_I",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_unknown.pdc",
+                "name": "WEATHER_UNKNOWN",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_snow.pdc",
+                "name": "WEATHER_SNOW",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_rain.pdc",
+                "name": "WEATHER_RAIN",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_light_rain.pdc",
+                "name": "WEATHER_LIGHT_RAIN",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_clear_i.pdc",
+                "name": "WEATHER_CLEAR_I",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "fonts/monicas_salon.ttf",
+                "name": "FONT_MONICAS_SALON_58",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/monicas_salon2.ttf",
+                "name": "FONT_MONICAS_SALON_32",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "data/weather_clear.pdc",
+                "name": "WEATHER_CLEAR",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_cloudy.pdc",
+                "name": "WEATHER_CLOUDY",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_partly_cloudy.pdc",
+                "name": "WEATHER_PARTLY_CLOUDY",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_fog.pdc",
+                "name": "WEATHER_FOG",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "images/ww-menu-icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "targetPlatforms": null,
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "WunderWeather",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "2575c058-621b-4095-9323-1c4b99c52fd4",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
