@@ -1,7 +1,7 @@
 # wunderweather
 The donate version of this watchface is located on the Pebble [appstore](https://apps.getpebble.com/applications/574661d496f915e89f000020).
 
-*Free version located [here](https://apps.getpebble.com/application/57464e56e8666d30f5000022).*
+*Free version located [here](https://apps.getpebble.com/applications/57464e56e8666d30f5000022).*
 
 **You must add an API key to the Settings page in order to use the weather!**
 
